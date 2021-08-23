@@ -1,0 +1,13 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "sample todo",
+  "main": "index.js",
+  "scripts": {
+    "dev:client": "npm --prefix ./client/ start",
+    "dev:server": "npm --prefix ./server/ start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
